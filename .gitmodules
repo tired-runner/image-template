@@ -1,3 +1,0 @@
-[submodule "build_files/ryzen_smu"]
-	path = build_files/ryzen_smu
-	url = git@github.com:amkillam/ryzen_smu.git
