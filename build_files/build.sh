@@ -2,5 +2,5 @@
 
 set -ouex pipefail
 
-cd ryzen_smu
+cd /ctx/ryzen_smu
 make dkms-install
