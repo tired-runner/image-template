@@ -3,4 +3,6 @@
 set -ouex pipefail
 
 cd /ctx/ryzen_smu
-make dkms-install
+make
+insmod ryzen_smu.ko
+
